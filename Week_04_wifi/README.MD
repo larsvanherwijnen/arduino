@@ -52,7 +52,7 @@ A video recording of the working result is included below.
 
 ## NeoPixel color changing using my API (HTTP)
 
-<video src="./videos/api_color_demo.mp4" width="350" controls></video>
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
 
 ---
 

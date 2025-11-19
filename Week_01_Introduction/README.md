@@ -29,8 +29,10 @@ I didn’t create circuits yet, but I now feel ready to begin learning about ele
 The process was smooth overall, though I had to double-check the correct board settings in the Arduino IDE before uploading code.
 
 
-### Hours spent
+### Hours Spent
 
-7 hours
-
+| Week      | Hours |
+|-----------|-------|
+| This week | **7** |
+| Total     | **7** |
 

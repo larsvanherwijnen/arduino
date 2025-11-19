@@ -37,11 +37,10 @@ Pressing the button cycles through multiple modes: solid colors, rainbow, theate
 ### Videos
 
 ## First LED light test
-[Open video](./videos/first_light_test.mp4)
-<video src="./videos/first_light_test.mp4" width="350" controls></video>
+<video src="https://github.com/user-attachments/assets/381ca862-485d-429d-8904-00da3dee5c70" width="350" controls></video>
 
 ## RGB mode cycling demo
-<video src="./videos/rgb_cycle_demo.mp4" width="350" controls></video>
+<video src="(https://github.com/user-attachments/assets/bce36780-31b5-4fda-9cc4-0549237b8a4b" width="350" controls></video>
 
 
 ### Reflection
@@ -51,9 +50,11 @@ This week was a mix of hardware troubleshooting and learning how to structure co
 The NeoPixels were easier to set up once I found the correct library. The first light test confirmed the LEDs were responding, which helped me move on to the animation part. The most challenging part was combining everything so the button could cycle between animations without blocking the loop. I had to think more carefully about timing, debouncing, and how to let animations update smoothly.
 
 
-### Hours spent
+### Hours Spent
 
-9 hours
-
+| Week      | Hours |
+|-----------|-------|
+| This week | **10.5** |
+| Total     | **24.5** |
 
 

@@ -29,8 +29,11 @@ This week focused on understanding how electricity behaves in a circuit.
 Learning how to calculate resistor values made it clearer why components need protection.
 It was also useful to see how the breadboard and Arduino pins connect.
 
-### Hours spent
+### Hours Spent
 
-7 hours
+| Week      | Hours |
+|-----------|-------|
+| This week | **7** |
+| Total     | **14** |
 
 

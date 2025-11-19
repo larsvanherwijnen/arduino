@@ -63,10 +63,13 @@ This week didn’t go the way I expected, but I learned a lot from it. Burning t
 
 On top of that, I had another annoying problem where the Arduino was detected in the Arduino IDE, but the moment I tried to flash it, I got the error “No device found on cu.usbmodemXXXX”. That sent me into a whole new round of troubleshooting and searching for solutions. Even though a lot of my time went into fixing problems instead of building new things, it still felt great to finally see the NeoPixel strip change colors using my own API.
 
----
 
-### Hours spent
+### Hours Spent
 
-14 hours
+| Week      | Hours |
+|-----------|-------|
+| This week | **14** |
+| Total     | **38.5** |
+
 
 

@@ -40,7 +40,7 @@ Pressing the button cycles through multiple modes: solid colors, rainbow, theate
 <video src="https://github.com/user-attachments/assets/381ca862-485d-429d-8904-00da3dee5c70" width="350" controls></video>
 
 ## RGB mode cycling demo
-<video src="(https://github.com/user-attachments/assets/bce36780-31b5-4fda-9cc4-0549237b8a4b" width="350" controls></video>
+<video src="https://github.com/user-attachments/assets/bce36780-31b5-4fda-9cc4-0549237b8a4b" width="350" controls></video>
 
 
 ### Reflection

@@ -1,17 +1,10 @@
-Here is a clean, structured **Week Reflection** in the **exact same format** as your previous weeks, written as a polished, professional project journal entry.
-
-You can paste this directly into your portfolio or weekly log.
-
----
-
-# ## Week 4 – WiFi, APIs & NeoPixel Integration
+### Week 4 – WiFi, APIs & NeoPixel Integration
 
 ### Goal
 
 Explore the WiFi capabilities of the Arduino UNO R4 WiFi, practice connecting to networks and APIs, and attempt to link an external RGB API to a NeoPixel LED strip. Understand the limitations of the hardware (especially regarding SSL), learn debugging strategies for networking problems, and gain experience with troubleshooting hardware mistakes.
 
 ---
-
 
 ### Activities
 

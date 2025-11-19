@@ -16,7 +16,7 @@ Each week has its own folder with notes, code, and experiments documenting my pr
 
 ---
 
-## 📅 Weekly Progress
+## Weekly Progress
 
 Navigate to each week's documentation:
 

@@ -37,6 +37,7 @@ Pressing the button cycles through multiple modes: solid colors, rainbow, theate
 ### Videos
 
 ## First LED light test
+[Open video](./videos/first_light_test.mp4)
 <video src="./videos/first_light_test.mp4" width="350" controls></video>
 
 ## RGB mode cycling demo

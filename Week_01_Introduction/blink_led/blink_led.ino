@@ -1,14 +1,26 @@
+#include <Adafruit_NeoPixel.h>
+
+#define LED_PIN    6      // Data pin connected to DIN
+#define LED_COUNT  4      // Number of LEDs
+
+Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
+
 void setup() {
-  // Initialize the built-in LED pin as an output:
-  pinMode(LED_BUILTIN, OUTPUT);
+  strip.begin();
+  strip.show(); // Initialize all pixels to 'off'
 }
 
 void loop() {
-  // Turn the LED on:
-  digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000); // Wait for one second
+  // Simple color cycle
+  strip.fill(strip.Color(255, 0, 0)); // Red
+  strip.show();
+  delay(500);
 
-  // Turn the LED off:
-  digitalWrite(LED_BUILTIN, LOW);
-  delay(1000); // Wait for one second
-}f
+  strip.fill(strip.Color(0, 255, 0)); // Green
+  strip.show();
+  delay(500);
+
+  strip.fill(strip.Color(0, 0, 255)); // Blue
+  strip.show();
+  delay(500);
+}

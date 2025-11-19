@@ -1,8 +1,3 @@
-Perfect — you want it to sound more natural, like a student reflection rather than something that feels AI-written.
-Here’s the cleaned-up and human-sounding version of your Week 2 README (same structure and tone as Week 1 👇):
-
----
-
 ## Week 2 – Basic Circuits & Ohm’s Law
 
 ### Goal
@@ -38,6 +33,4 @@ It was also useful to see how the breadboard and Arduino pins connect.
 
 7 hours
 
----
 
-Would you like me to now write the linked detail pages (`arduino_pins.md`, `resistors.md`, `ohms_law.md`) so that this README connects cleanly to them?

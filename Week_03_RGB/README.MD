@@ -21,19 +21,18 @@ Understand how button states work, why debouncing is needed, and how to switch b
 This week’s project was a button-controlled NeoPixel system.
 Pressing the button cycles through multiple modes: solid colors, rainbow, theater chase, fire flicker, sparkle, and off.
 
-> Files used:
-> • `button_test.ino`
-> • `first_led_test.ino`
-> • `rgb_button_modes.ino` (final combined sketch)
+- [button_test.ino](./Button_input/button_test.ino)
+- [first_led_test.ino](./RGB/RGB_test.ino)
+- [rgb_button_modes.ino](./Cycle_RGB_lightmodes/neopixel_cycle_pattern.ino)
 
 
 ### Pictures
 
 ## Incorrect wiring:
-<img src="./images/wiring_incorrect.jpg" width="300">
+<img src="./images/wiring_incorrect.JPG" width="300">
 
 ## Correct wiring:
-<img src="./images/wiring_correct.jpg" width="300">
+<img src="./images/wiring_correct.JPG" width="300">
 
 ### Videos
 

@@ -33,9 +33,8 @@ This week’s project focused on combining WiFi communication, JSON parsing, and
 
 Instead of receiving color changes from user input, the Arduino requests a random RGB value from my API every few seconds and updates the LEDs.
 
-> Files used:
-> • `wifi_network/wifi_network.ino`
-> • `random_color_api/changing_color_api.ino` 
+- [Wifi test](./wifi_network/wifi_network.ino)
+- [Color changing API](./random_color_api/changing_color_api.ino)
 
 A video recording of the working result is included below.
 
@@ -68,6 +67,6 @@ On top of that, I had another annoying problem where the Arduino was detected in
 
 ### Hours spent
 
-12 hours
+14 hours
 
 

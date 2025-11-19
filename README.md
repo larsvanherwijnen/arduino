@@ -10,10 +10,24 @@ As part of this elective, I chose to learn Arduino something I’ve wanted to ex
 Over the course of 10 weeks, I’ll be building small projects to understand the fundamentals of Arduino and electronics, eventually applying that knowledge in a SmartLab integration project.
 Each week has its own folder with notes, code, and experiments documenting my progress.
 
----
 
 🛠️ The list of components and tools used is described in
 👉 [Week 01 – Introduction](./Week_01_Introduction/README.md)
+
+---
+
+## 📅 Weekly Progress
+
+Navigate to each week's documentation:
+
+| Week | Topic | Link |
+|------|-------|------|
+| 1    | Introduction & Setup | [Week 01](./Week_01_Introduction/README.md) |
+| 2    | Basic Circuits & Ohm’s Law | [Week 02](./Week_02_Basic_circuits/README.md) |
+| 3    | RGB LEDs & Button Control | [Week 03](./Week_03_RGB/README.MD) |
+| 4    | WiFi, APIs & NeoPixel Integration | [Week 04](./Week_04_wifi/README.MD) |
+
+_More weeks will be added as the project continues._
 
 
 

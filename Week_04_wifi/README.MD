@@ -44,7 +44,7 @@ A video recording of the working result is included below.
 
 ## Burned Potentiometer Wiring (Incorrect)
 
-<img src="./images/broken_potentiometer.jpg" width="300">
+<img src="./Images/broken_potentiometer.jpg" width="300">
 
 ---
 

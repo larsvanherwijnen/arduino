@@ -23,10 +23,9 @@ Navigate to each week's documentation:
 | Week | Topic | Link |
 |------|-------|------|
 | 1    | Introduction & Setup | [Week 01](./Week_01_Introduction/README.md) |
-| 2    | Basic Circuits & Ohm’s Law | [Week 02](./Week_02_Basic_circuits/README.md) |
+| 2    | Basic Circuits & Ohm’s Law | [Week 02](./Week_02_Basic_Circuits/README.md) |
 | 3    | RGB LEDs & Button Control | [Week 03](./Week_03_RGB/README.MD) |
 | 4    | WiFi, APIs & NeoPixel Integration | [Week 04](./Week_04_wifi/README.MD) |
-
 
 
 

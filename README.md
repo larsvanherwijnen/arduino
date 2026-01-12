@@ -26,6 +26,15 @@ Navigate to each week's documentation:
 | 2    | Basic Circuits & Ohm’s Law | [Week 02](./Week_02_Basic_Circuits/README.md) |
 | 3    | RGB LEDs & Button Control | [Week 03](./Week_03_RGB/README.MD) |
 | 4    | WiFi, APIs & NeoPixel Integration | [Week 04](./Week_04_wifi/README.MD) |
+| 5-7  | Integration Sensorlab Project | [Week 05-07](./Week_05_07_Integration_sensorlab/README.MD) |
+| 8    | Miscellaneous Sensors Exploration | [Week 08](./Week_08_miscellaneous_sensors/README.MD) |
+| 9    | Gyroscope & WebSerial | [Week 09](./Week_09_gyro/README.MD) |
+
+---
+
+## Final Reflection
+
+[Final Reflection Report](./Final_Reflection_Report.md) - STARR-based reflection on the complete learning journey
 
 
 

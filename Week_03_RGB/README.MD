@@ -45,7 +45,7 @@ Pressing the button cycles through multiple modes: solid colors, rainbow, theate
 
 ### Reflection
 
-This week was a mix of hardware troubleshooting and learning how to structure code around user input. At the beginning, the button kept triggering even when I wasn’t touching it, which was confusing until I realized I had accidentally placed GND and 5V in the same breadboard column. Fixing the wiring immediately solved the issue.
+This week was a mix of hardware troubleshooting and learning how to structure code around user input. At the beginning, the button kept triggering even when I wasn’t touching it, which was confusing until I realized I had accidentally placed GND and 5V in the same breadboard column. Fixing the wiring solved the issue.
 
 The NeoPixels were easier to set up once I found the correct library. The first light test confirmed the LEDs were responding, which helped me move on to the animation part. The most challenging part was combining everything so the button could cycle between animations without blocking the loop. I had to think more carefully about timing, debouncing, and how to let animations update smoothly.
 
